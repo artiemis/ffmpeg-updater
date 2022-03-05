@@ -1,0 +1,1 @@
+0 12 * * * cd /home/ubuntu/ffmpeg-updater && env/bin/python run.py
