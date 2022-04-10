@@ -9,7 +9,7 @@ from typing import Optional
 
 import requests
 
-SERVER_FILES_PATH = Path('/home/ubuntu/lugnica.pl/public/files')
+SERVER_FILES_PATH = Path('/home/artem/lugnica.pl/public/files')
 FFMPEG_EXE_PATH = SERVER_FILES_PATH / 'ffmpeg.exe'
 FFMPEG_ESSENTIALS_PATH = SERVER_FILES_PATH / Path('ffmpeg-release-essentials.exe')
 FFMPEG_FULL_PATH = SERVER_FILES_PATH / ('ffmpeg-release-full.exe')
